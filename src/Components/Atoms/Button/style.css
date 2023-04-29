@@ -1,0 +1,17 @@
+.btn-component {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    width: 300px;
+    height: 60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    color: #A7B1BC;
+    text-decoration: none;
+    background: #12171D;
+    border-radius: 8px;
+    margin: 5px;
+}
